@@ -65,12 +65,13 @@ My recent work includes building **Smart Recruitment Systems** using AI/ML to au
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanukawelagedara&show_icons=true&count_private=true&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanukawelagedara&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanukawelagedara&layout=compact&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanukawelagedara&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanukawelagedara&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chanukawelagedara&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chanukawelagedara&theme=dracula)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chanukawelagedara&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chanukawelagedara&theme=dracula)
 
 ---
 
