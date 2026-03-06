@@ -65,13 +65,11 @@ My recent work includes building **Smart Recruitment Systems** using AI/ML to au
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanukawelagedara&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukawelagedara&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanukawelagedara&show_icons=true&count_private=true&theme=dracula)
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanukawelagedara&layout=compact&theme=dracula)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanukawelagedara&theme=dracula)
 
 
 ---
